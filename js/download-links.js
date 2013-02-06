@@ -1,0 +1,3 @@
+$(function () {
+	$('#viewPageDownloadOptions').css('display','');
+});

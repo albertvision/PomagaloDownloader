@@ -1,0 +1,37 @@
+{
+   "extName": {
+	  "message": "Pomagalo Downloader"
+   },
+   "extDesc": {
+	  "message": "Free download of Pomagalo.com's materials"
+   },
+   "extAuthor": {
+	  "message": "Yasen Georgiev"
+   },
+   "back": {
+	  "message": "Back"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "short_guide": {
+	  "message": "SHORT GUIDE"
+   },
+   "help_cnt": {
+      "message": "<li>Go to <a href='http://pomagalo.com'>Pomagalo.com</a> and login with your details. If you aren't registered, please register from the registration link in the Pomagalo's site.</li>
+	  <li>Select a document, which you want to download.</li>
+	  <li>Under the document viewer will apear a box, from which you can download the document.</li>
+	  <li>Select document's data type for download.</li>
+	  <li>... and the document will be downloaded.</li>
+	  <li>That's all!</li>"
+   },
+   "about": {
+      "message": "About"
+   },
+   "rights": {
+	  "message": "All rights reserved!"
+   },
+   "licensed_under": {
+	  "message": "This extension is licensed under"
+   }
+}
